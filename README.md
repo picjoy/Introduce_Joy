@@ -14,7 +14,7 @@
 <div>
 
 ##  Education
-#### 2021-04 ~ 2021-08 : Sparta Coding Club BootCamp HangHae 99 8th  
+#### 2022.07 ~ 2022.10  : Sparta Coding Club BootCamp HangHae 99 8th  
 #### 2017-02 ~ 2022-02 : Computer Engineering at Dongseo University 
 #### 2021-06 ~ 2022-02 : K-MOVE Japan IT Engineer Training Course 
 #### 2021-06 ~ 2021-08 : Practical training using artificial intelligence language algorithms 
