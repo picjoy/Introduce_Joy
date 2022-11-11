@@ -18,7 +18,7 @@
 #### 2017-02 ~ 2022-02 : Computer Engineering at Dongseo University 
 #### 2021-06 ~ 2022-02 : K-MOVE Japan IT Engineer Training Course 
 #### 2021-09 ~ 2022-10 : CISCO Networking Academy DevNet Associate
-#### 2021-06 ~ 2021-08 : Practical training using artificial intelligence language algorithms 
+#### 2021-06 ~ 2021-08 : Practical Training Using Artificial Intelligence Language Algorithms 
 #### 2021-04 ~ 2021-08 : KG IT BANK CCNA-SWITCH, CCNA-ROUTER, Basic Network 
 #### 2019-08 ~ 2020-01 : Hope International University(HIU) Exchange Student, California, United States 
 </div>
