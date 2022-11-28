@@ -27,9 +27,13 @@
 <div>
 
 ##  Project 
-#### HangHae 99 Practical Project  : [ WithTopia Github ](https://github.com/picjoy/WithTopia_BE)
-#### HangHae 99 Week 7 Clone Coding Project : [ HANGHAE-INSIDE Github ](https://github.com/picjoy/HANGHAE-INSIDE-BE)
-#### HangHae 99 Week 6 Mini Project  : [ Title-University Github ](https://github.com/picjoy/Title-University)
+### WithTopia : [ WithTopia Github ](https://github.com/picjoy/WithTopia_BE)
+#### Video chat platform talking with people on various topics of interest
+### HANGHAE-INSIDE : [ HANGHAE-INSIDE Github ](https://github.com/picjoy/HANGHAE-INSIDE-BE)
+#### DcInside Clone Coding, Korea's largest Internet community portal site
+### Title-University  : [ Title-University Github ](https://github.com/picjoy/Title-University)
+#### A community that shares fun titles with people
+  
 </div>
 </br>
 
