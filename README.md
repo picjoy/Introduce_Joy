@@ -7,7 +7,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpicjoy&count_bg=%23FFE400&title_bg=%23C5FF00&icon=protocols-dot-io.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
    
-### Hello! I'm Junior Backend Developer J O Y 👋🏻 </br></br> Welcome To Joy's GitHub 💗</br></br> Contact Me by piczo617@gmail.com 📫 </br></br> Joy's Tech Blog is [ Here! ](https://velog.io/@piczo) 📚
+### Hello! I'm Junior Full Stack Developer J O Y 👋🏻 </br></br> Welcome To Joy's GitHub 💗</br></br> Contact Me by piczo617@gmail.com 📫 </br></br> Joy's Tech Blog is [ Here! ](https://velog.io/@piczo) 📚
 
 </div>
 </br>
